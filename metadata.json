@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie – AI Powered Personalized Learning Assistant",
+  "description": "An AI-powered educational platform helping students learn, revise, practice, and manage their studies with Genie AI, smart notes, interactive quizzes, study planner, and gamified progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
